@@ -81,7 +81,7 @@ This command will do the following:
 3) Merge the _main.prisma and _aurora.prisma files into the final schema.prisma file the will be used with any prisma commands
 
 #### Note: 
-_aurora.prisma file will be generated everytime you execute the command.
+_aurora.prisma file will be generated everytime you execute the psgen command.
 
 Now execute prisma commands as usual:
 
@@ -92,6 +92,7 @@ npx prisma generate
 
 ### Structure Example:
 
+![prismaconfig1](https://user-images.githubusercontent.com/7454795/194777658-3110baf9-ed61-4a26-a761-dc2d83376411.png)
 
 ## License
 
