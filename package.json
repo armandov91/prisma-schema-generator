@@ -8,11 +8,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["prisma", "prisma-aurora", "aurora"],
+  "author": "Armando Villalta",
   "license": "ISC",
   "dependencies": {
     "commander": "^9.4.1",
     "process": "^0.11.10"
-  }
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armandov91/prisma-schema-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/armandov91/prisma-schema-generator/issues"
+  },
+  "homepage": "https://github.com/armandov91/prisma-schema-generator#readme"
 }
