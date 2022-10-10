@@ -1,6 +1,6 @@
 {
   "name": "prisma-schema-generator",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A tool for joining multiple prisma file into one, allowing a more structured and maintainable schema files.",
   "bin": {
     "psgen": "index.js"

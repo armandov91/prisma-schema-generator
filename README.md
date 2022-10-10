@@ -1,9 +1,5 @@
 # Prisma Schema Generator
-## Strucutred prisma schema management
-
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+## Structured prisma schema management
 
 Prisma Schema Generator is a tool for joining multiple prisma files into one, allowing a more structured and maintainable prisma schemas.
 
